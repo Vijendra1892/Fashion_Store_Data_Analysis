@@ -1,5 +1,4 @@
 # Fashion_Store_Data_Analysis
-📍Download the complete report from here.
 
 Objective
 
